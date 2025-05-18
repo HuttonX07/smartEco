@@ -1,0 +1,120 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "nav": {
+    "home": "Home",
+    "scan": "Scan",
+    "rewards": "Rewards",
+    "profile": "Profile",
+    "signOut": "Sign Out"
+  },
+  "home": {
+    "hero": {
+      "title": "Sort your waste, learn how to recycle, and protect the planet",
+      "subtitle": "Smarteco helps you identify and properly recycle waste items using AI technology, while earning rewards for your environmental actions.",
+      "identifyWaste": "Identify Waste",
+      "recyclingGuide": "Recycling Guide"
+    },
+    "features": {
+      "title": "How Smarteco Works",
+      "identify": {
+        "title": "Identify Waste",
+        "description": "Upload a photo and our AI recognizes the item and provides specific recycling information."
+      },
+      "learn": {
+        "title": "Learn How to Recycle",
+        "description": "Get detailed instructions about the correct bin and recycling method."
+      },
+      "earn": {
+        "title": "Earn Rewards",
+        "description": "Collect points for each item recycled and compete with other users."
+      }
+    },
+    "impact": {
+      "title": "Make a real environmental impact",
+      "description": "Proper recycling reduces landfill waste, conserves natural resources, and prevents pollution. With Smarteco, you can track your contribution and see the real difference you're making.",
+      "stats": {
+        "trees": "Trees saved by recycling 1 ton of paper",
+        "energy": "Energy saved by recycling aluminum vs. new production",
+        "plastic": "Years for plastic to decompose in landfills",
+        "glass": "Less energy used to recycle glass vs. new production"
+      }
+    },
+    "cta": {
+      "title": "Ready to start your recycling journey?",
+      "description": "Join thousands of users who are already making a difference. Start identifying waste items today and see how easy proper recycling can be.",
+      "button": "Start Now"
+    }
+  },
+  "scan": {
+    "title": "Scan Your Waste",
+    "subtitle": "Upload a photo to identify the waste item.",
+    "upload": "Upload Photo",
+    "identify": "Identify Item",
+    "analyzing": "Analyzing...",
+    "noImage": "No image selected",
+    "errors": {
+      "invalidFile": "Please select a valid image file",
+      "fileSize": "Image size should be less than 5MB"
+    }
+  },
+  "profile": {
+    "title": "Profile Settings",
+    "username": "Username",
+    "usernamePlaceholder": "Enter your username",
+    "email": "Email",
+    "save": "Save Changes",
+    "saving": "Saving...",
+    "avatarAlt": "Profile picture",
+    "uploadError": "Failed to upload image",
+    "updateError": "Failed to update profile",
+    "invalidImageError": "Please select a valid image file"
+  },
+  "rewards": {
+    "title": "Your Recycling Impact",
+    "points": "Points",
+    "totalPoints": "Total Points",
+    "impact": "Your Impact",
+    "itemsRecycled": "You've recycled {count} items",
+    "energySaved": "and saved approximately {amount} kWh of energy!",
+    "achievements": "Achievements",
+    "rank": "Your Rank",
+    "leaderboard": "Leaderboard",
+    "tips": {
+      "title": "Recycling Tips",
+      "rinse": {
+        "title": "Rinse containers before recycling",
+        "description": "Food residue can contaminate an entire batch of recyclables."
+      },
+      "noBags": {
+        "title": "Don't bag your recyclables",
+        "description": "Most recycling facilities require loose items, not bagged."
+      },
+      "rules": {
+        "title": "Know your local recycling rules",
+        "description": "Recycling guidelines vary by location. Check with your local waste management."
+      },
+      "flatten": {
+        "title": "Flatten cardboard boxes",
+        "description": "This saves space and makes transportation more efficient."
+      }
+    }
+  },
+  "auth": {
+    "welcomeBack": "Welcome back",
+    "createAccount": "Create an account",
+    "signInContinue": "Sign in to continue your recycling journey",
+    "joinUs": "Join us in making the world cleaner",
+    "email": "Email address",
+    "password": "Password",
+    "username": "Username",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "noAccount": "Don't have an account? Sign up",
+    "haveAccount": "Already have an account? Sign in",
+    "pleaseWait": "Please wait..."
+  }
+}
